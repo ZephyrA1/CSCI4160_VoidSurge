@@ -8,7 +8,7 @@ A top-down arena survival roguelite built in Godot 4.6.2. Survive 10 waves of en
 
 ## Demo Video
 
-[Watch the video essay on YouTube (unlisted)](https://youtu.be/YOUR_VIDEO_ID_HERE)
+[Watch the video essay on YouTube (unlisted)](https://youtu.be/zemfBS0gRrw)
 
 ## How to Run
 
